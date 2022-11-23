@@ -44,3 +44,11 @@ This is the result of the dashboard without filtering. This takes into account a
 ## References
 [Full Power BI Guided Project | Microsoft Power BI for Beginners - Alex The Analyst](https://www.youtube.com/watch?v=pixlHHe_lNQ) 
 
+## Repository Structure
+
+```
+├── images
+├── README.md
+├── data_professional_survey_data.xlsx
+└── power_bi_file.pbix
+```
